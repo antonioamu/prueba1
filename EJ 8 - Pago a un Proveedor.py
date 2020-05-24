@@ -17,4 +17,11 @@ elif categoria == 'B' and importe >= 1500 and importe <= 2500:
 else:
     importe_final = importe
 
+
+
+
+
+
+
+
 print(categoria, importe, importe_final)
