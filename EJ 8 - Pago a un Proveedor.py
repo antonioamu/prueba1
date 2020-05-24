@@ -18,10 +18,14 @@ else:
     importe_final = importe
 
 
-
-
-
-
-
-
+print(categoria, importe, importe_final)
+print(categoria, importe, importe_final)
+print(categoria, importe, importe_final)
+print(categoria, importe, importe_final)
+print(categoria, importe, importe_final)
+print(categoria, importe, importe_final)
+print(categoria, importe, importe_final)
+print(categoria, importe, importe_final)
+print(categoria, importe, importe_final)
+print(categoria, importe, importe_final)
 print(categoria, importe, importe_final)
